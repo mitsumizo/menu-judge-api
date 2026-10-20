@@ -20,6 +20,8 @@ make run      # start the dev server on http://127.0.0.1:8000
 
 ## Plan
 
+Day-by-day milestones: [docs/MILESTONES.md](docs/MILESTONES.md)
+
 | Week | Goal |
 |---|---|
 | 1 | Upload a menu image, get / list / delete / patch menus. Pydantic models. A fake analyzer. Tests |
