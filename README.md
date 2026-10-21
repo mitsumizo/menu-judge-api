@@ -5,6 +5,7 @@ The original app was built with AI. This one is rewritten by hand, to make sure 
 
 ## Rules
 
+- All source code in this repo is written by a human.
 - No AI for writing code. Official docs and Google are fine.
 - If stuck for 15 minutes, take one hint, then keep going.
 - When a test fails, the first move is `print(r.status_code, r.json())`.
